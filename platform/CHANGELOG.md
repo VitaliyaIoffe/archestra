@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.29](https://github.com/archestra-ai/archestra/compare/platform-v1.2.28...platform-v1.2.29) (2026-04-30)
+
+
+### Miscellaneous Chores
+
+* add codex connection instructions ([#4211](https://github.com/archestra-ai/archestra/issues/4211)) ([65e2774](https://github.com/archestra-ai/archestra/commit/65e2774b30ad5038a93a585885e6e5295ad0e2f1))
+* n8n instructions ([#4215](https://github.com/archestra-ai/archestra/issues/4215)) ([a773486](https://github.com/archestra-ai/archestra/commit/a773486bf4449b2769cd04d60c83d323d4adb052))
+
 ## [1.2.28](https://github.com/archestra-ai/archestra/compare/platform-v1.2.24...platform-v1.2.28) (2026-04-29)
 
 
